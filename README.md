@@ -1,3 +1,7 @@
 # ml_sandbox
 
-## test
+Run:
+
+```sh
+make run
+```

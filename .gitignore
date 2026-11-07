@@ -1,0 +1,11 @@
+__pycache__/
+*.py[codz]
+*$py.class
+
+.DS_Store
+
+.venv
+.ipynb_checkpoints
+
+# skip notebooks that start with _
+notebooks/_*
